@@ -1,0 +1,19 @@
+{
+  "viewportHeight": 900,
+  "viewportWidth": 1440,
+  "requestTimeout": 15000,
+  "responseTimeout": 90000,
+  "blacklistHosts":  [ "*firewalltester*"], 
+  "chromeWebSecurity": false,
+  "hpAuth": "Basic eDplVlZVRnBMWmQzczk5S1NXazhjMg==",
+  "baseUrl": "https://app.snyk.io",
+  "env": {
+    "username": "qa.tester.endurance@gmail.com",
+    "password": "Test!2#4",
+    "cookieName": "cookieID",
+    "googleSocialLoginUsername": "qa.tester.endurance@gmail.com",
+    "googleSocialLoginPassword": "Test!2#4",
+    "loginUrl": "https://accounts.google.com/signin",
+    "homepage": "https://somehomepage"
+  }
+}
