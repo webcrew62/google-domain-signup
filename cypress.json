@@ -11,8 +11,8 @@
     "username": "qa.tester.endurance@gmail.com",
     "password": "Test!2#4",
     "cookieName": "cookieID",
-    "googleSocialLoginUsername": "qa.tester.endurance@gmail.com",
-    "googleSocialLoginPassword": "Test!2#4",
+    "googleSocialLoginUsername": "qa.tester@gmail.com",
+    "googleSocialLoginPassword": "XdontyouWis$$",
     "loginUrl": "https://accounts.google.com/signin",
     "homepage": "https://somehomepage"
   }
